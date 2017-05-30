@@ -1,0 +1,184 @@
+/* 1199 991 767 480 414 375 360 320 max-width */
+@media screen and (max-width: 1199px){
+	.logo{float:left;}
+	.menubar li a {font-size: 16px;padding:10px;}
+	.module {
+    padding: 50px 0;
+}
+	.social-connect {
+    display: flex;
+	}
+	.mostpptitle{width:55%;}
+	.most-popular .photosm{margin-right: 5px;}
+	
+	.posts-left{font-size:14px;}
+	.most-popular .body-details span{font-size:12px;margin-right:0;}
+	.travel-list {
+    
+    padding-bottom:50px;
+}
+	.gaming .photosm{margin-right: 10px;}
+	.gaming .posts-left{padding-top:0;}
+	.tech-title{font-size:20px;padding-top:0;}
+	.desc-tech {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+	.phototech {
+    margin-right: 10px;
+}
+.tab-title li a{font-size:18px;}
+.video .body-details span{font-size:12px;margin-right:15px;}
+.most-viewed {
+    padding-top: 50px;
+}
+.mostviewtitle {
+    width: 35%;}
+.bannerads{padding:35px 0;}
+.most-viewed .body-details span{margin-right:15px;}
+.banner-ads {
+    padding: 50px 51px 50px 21px;
+}
+.rc-posts .posts-left{padding-top: 0;
+margin-bottom: 0;}
+.rc-posts span {
+    margin-right: 5px;
+}
+}
+
+@media screen and (max-width: 991px){
+	.caption-photo{right:0px;}.title-posts{font-size:18px;}.title-sm{font-size:16px;}
+	.caption-sm {bottom: 5px;
+left: 5px;}
+.heading ul{margin-top:0;}.title{font-size:18px;}
+.social-connect{margin-bottom:30px;}
+p.total{font-size:12px;padding:0;}.social-connect .fa{font-size:20px;}
+.most-popular .photo{margin-right:0;float:none;}
+.most-popular .photo img{width:100%;
+}
+.title-posts {
+    font-size: 16px;
+}
+.gaming .row{display:flex;}
+.gaming .posts-left{margin-bottom: 5px;}
+.gaming .body-details span{margin-right:5px;}
+.gaming .gaming-title{margin-top: 20px;
+margin-bottom: 15px;}
+.phototech{float:none;margin-right:0;}
+.phototech img{width:100%;}
+.tech-title{margin:10px 0;}
+.tab-title li a{font-size:16px;}
+.tab-title li a{padding-right:10px;}
+.label{font-size:60%;}
+.hot-posts .title-posts{font-size:14px;}
+.titlewithlabel {
+    bottom: 10px;
+    left: 15px;}
+ .item-video{padding:30px 0;}
+ .most-viewed .ct span{margin-right:5px;}
+ .most-viewed .body-details .labelst{font-size:8px;}
+ .most-viewed .photosm{margin-right: 5px;}
+.most-viewed .body-details span{margin-right:0;}
+.most-viewed .posts-left{padding-top:0;}.label-views{left: 5px;
+top: 5px;}
+.footer .row {
+    display: flex;
+}
+.footer .photosm{float:none;margin-right:0;}
+.rc-posts .posts-left{margin-top:10px;}
+}
+@media screen and (min-width: 768px){
+	
+.carousel-caption {
+    right: 33%;
+    left: 20%;
+    padding-bottom: 30px;
+}}
+@media screen and (max-width: 767px){
+	#myNavbar ul li{
+		display:block;
+	}
+	.menubar li:hover{background:#db2e1c;}
+	.menubar li:hover a {border-bottom: none;color:#fff;}
+.caption-slide h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.gaming .posts-left{margin-bottom:30px;}
+	.travel .row {
+    display: flex;
+}
+.banner-ads-left{display:none;}	.banner-ads{display:none;}
+.hot-posts .photo img{width:100%;}.label {
+    font-size: 70%;
+}
+.hot-posts .title-posts{font-size:16px;}
+.most-viewed .photo img{width:100%;}
+.btn-readmore{margin-bottom:10px;}
+.most-viewed .body-details{}
+.most-viewed .posts-left {
+    padding-top: 15px;
+}
+.bannerads{display:none;}.most-viewed .body-details .labelst{font-size:12px;}.most-viewed .body-details span {
+    margin-right: 25px;
+}.most-viewed .photosm {
+    margin-right: 15px;
+}
+.contacus{display:none;}.copyright{text-align:center;}.gaming-list{padding-bottom:25px;}
+}
+
+@media screen and (max-width: 480px){
+	.carousel-caption{padding-top:0;padding-bottom:0;}
+	.caption-slide h2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.gaming .row {
+    display: block;
+}
+.gaming .photo img{width:100%;}.desc{margin-bottom:20px;}.item-sm {
+    margin-bottom: 50px;
+}.most-viewed .body-details .labelst{font-size:10px;}
+.footer .row{display:block;}.flick .row {
+    display: flex;
+}
+.mostpp-list .item-sm{margin-bottom: 20px;}.video .item-sm{margin-bottom:20px;}.video{padding:20px 0;}
+}
+@media screen and (max-width: 414px){
+	.slide{display:none;}
+	.firstmenu .row{display:flex;}.top-menu li a{margin-right:25px;}
+	.module{padding-top:0;padding-bottom:20px;}
+	.menubar li a{line-height: 40px;}
+	.heading ul li {
+    display: inline-block;
+    padding-left: 4px;
+    padding-right: 4px;
+}	
+.title{font-size:16px;}.caption-photo{bottom:10px;}.desc{font-size:12px;margin-bottom:10px;}.title-posts{font-size:14px;}
+.caption-photo span{margin-right:15px;}
+.most-popular .item-sm, .video .item-sm{margin-bottom:0;}
+.most-viewed .item-sm{margin-bottom:30px;}
+.most-viewed .body-details span {
+    margin-right: 15px;
+}
+.video{padding:20px 0;}.most-viewed {
+    padding-top: 20px;
+}
+}
+@media screen and (max-width: 375px){
+	.top-menu li a {
+    margin-right: 15px;
+}.most-viewed .body-details span{margin-right:0;}.most-viewed .posts-left{padding-top:0;}.btn-readmore{margin-bottom:0;}
+}
+@media screen and (max-width: 360px){
+,.desc{margin-bottom:0;}.caption-photo{bottom:5px;}
+	.caption-photo span {
+    margin-right: 5px;
+}.most-viewed .body-details .labelst{font-size:8px;
+}
+	
+}
+@media screen and (max-width: 320px){
+	.top-menu li a{margin-right:5px;}.caption-photo{left:5px;}.caption-photo span{font-size:11px;}
+	.body-details span{font-size:8px;}.most-viewed .photosm{margin-right:5px;}
+}
