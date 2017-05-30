@@ -146,7 +146,7 @@ top: 5px;}
 }
 @media screen and (max-width: 414px){
 	.slide{display:none;}
-	.firstmenu .row{display:flex;}.top-menu li a{margin-right:25px;}
+	.firstmenu .row{display:flex; display: -webkit-flex; /* NEW */}.top-menu li a{margin-right:25px;}
 	.module{padding-top:0;padding-bottom:20px;}
 	.menubar li a{line-height: 40px;}
 	.heading ul li {
