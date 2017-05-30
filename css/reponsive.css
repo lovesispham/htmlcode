@@ -7,10 +7,6 @@
 }
 	.social-connect {
     display: flex;
-		display: -webkit-box;
-    display: -webkit-flex;
-    display: -moz-box;
-    display: -ms-flexbox;
 	}
 	.mostpptitle{width:55%;}
 	.most-popular .photosm{margin-right: 5px;}
