@@ -47,6 +47,11 @@ margin-bottom: 0;}
 }
 
 @media screen and (max-width: 991px){
+	span.time.cgrey {
+    color: #99A3A4;
+}span.comment.cgrey {
+    color: #99A3A4;
+}
 	.caption-photo{right:0px;}.title-posts{font-size:18px;}.title-sm{font-size:16px;}
 	.caption-sm {bottom: 5px;
 left: 5px;}
@@ -88,17 +93,14 @@ top: 5px;}
 .rc-posts .posts-left{margin-top:10px;}
 }
 @media screen and (min-width: 768px){
-	span.time.cgrey {
-    color: #99A3A4;
-}span.comment.cgrey {
-    color: #99A3A4;
-}
+	
 .carousel-caption {
     right: 33%;
     left: 20%;
     padding-bottom: 30px;
 }}
 @media screen and (max-width: 767px){
+
 	#myNavbar ul li{
 		display:block;
 	}
