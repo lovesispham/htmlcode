@@ -88,7 +88,11 @@ top: 5px;}
 .rc-posts .posts-left{margin-top:10px;}
 }
 @media screen and (min-width: 768px){
-	
+	span.time.cgrey {
+    color: #99A3A4;
+}span.comment.cgrey {
+    color: #99A3A4;
+}
 .carousel-caption {
     right: 33%;
     left: 20%;
